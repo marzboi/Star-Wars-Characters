@@ -1,4 +1,4 @@
-# Week 5 - Proyecto en equipo
+# Week 5
 
 SPA creada en React, que gestiona el estado común con context y reducer.
 
@@ -8,7 +8,4 @@ La app se conecta a una **API pública** de Star Wars que lista y pagina los ele
 
 Consta de un filtro de busqueda por carácteres, de un función para agregar personajes a un listado de favoritos y de una funcion de creacion de personaje que guarda el resultado en otro listado diferente.
 
-## Mas info:
-
-- listado de componentes y responsabilidades:
-  https://docs.google.com/document/d/18SixtGZYcPNGEcdaM-tAebPu3ZOG92WDqNGNaRzv__w/edit
+La Aplicacion usa tecnnoligias de Flux para el manejo del estado durante la aplicacion.
