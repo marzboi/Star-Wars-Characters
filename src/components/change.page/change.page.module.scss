@@ -1,0 +1,13 @@
+.changepage {
+  display: flex;
+  justify-content: space-between;
+  width: 233px;
+
+  button {
+    font-family: inherit;
+    font-size: 22px;
+    color: #ffc500;
+    border: none;
+    background: transparent;
+  }
+}

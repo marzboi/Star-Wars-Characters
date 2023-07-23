@@ -1,0 +1,20 @@
+.characterinfo {
+  color: white;
+  div {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+    img {
+      border-radius: 40px;
+      height: 311px;
+      width: 233px;
+      border: 3px solid white;
+    }
+    span {
+      padding: 5px;
+      text-align: center;
+      font-size: 20px;
+    }
+  }
+}

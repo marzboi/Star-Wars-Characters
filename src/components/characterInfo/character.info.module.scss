@@ -1,0 +1,39 @@
+.characterinfo {
+  color: white;
+  div {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+    img {
+      border-radius: 40px;
+      height: 311px;
+      width: 233px;
+      border: 3px solid white;
+    }
+    span {
+      padding: 5px;
+      text-align: center;
+      font-size: 20px;
+    }
+  }
+}
+.feedbackcontainer {
+  position: absolute;
+  top: 50%;
+  display: none;
+  width: auto;
+  z-index: 10;
+  color: white;
+  .feedback {
+    place-self: center;
+    font-size: 40px;
+    text-align: center;
+    background-color: black;
+    border: 2px solid white;
+  }
+}
+
+.visible {
+  display: grid;
+}

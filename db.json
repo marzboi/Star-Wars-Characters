@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Luke Skywalker",
+      "height": "172",
+      "image": "https://starwars-visualguide.com/assets/img/characters/1.jpg",
+      "mass": "77",
+      "hair_color": "blond",
+      "eye_color": "blue",
+      "birth_year": "19BBY",
+      "gender": "male",
+      "homeworld": "Tatooine",
+      "url": "https://swapi.dev/api/people/1/"
+    },
+    {
+      "id": 4,
+      "name": "Darth Vader",
+      "height": "202",
+      "image": "https://starwars-visualguide.com/assets/img/characters/4.jpg",
+      "mass": "136",
+      "hair_color": "none",
+      "eye_color": "yellow",
+      "birth_year": "41.9BBY",
+      "gender": "male",
+      "homeworld": "Tatooine",
+      "url": "https://swapi.dev/api/people/4/"
+    }
+  ],
+  "created-characters": [
+    {
+      "id": 1,
+      "name": "Cova",
+      "image": "https://media.licdn.com/dms/image/D5603AQF2wWsndfJiWQ/profile-displayphoto-shrink_800_800/0/1681771756141?e=1691020800&v=beta&t=vyTwHdI9x5AeetfxhwF8lvEFMTHsquvwc4jjCrTtaqI",
+      "height": "156",
+      "mass": "45",
+      "hair_color": "Yellow",
+      "eye_color": "Blue",
+      "birth_year": "1994",
+      "gender": "Female",
+      "homeworld": "Madrid",
+      "url": "its local :("
+    },
+    {
+      "id": 2,
+      "name": "Nitin",
+      "image": "https://media.licdn.com/dms/image/C4E03AQHXJooyDFwp2g/profile-displayphoto-shrink_800_800/0/1627821060902?e=1691020800&v=beta&t=SwGAV5kqrJA7-VyjV5TRvbhWDRiKo2GqR04T6V7Igtk",
+      "height": "190",
+      "mass": "100",
+      "hair_color": "Negro",
+      "eye_color": "Azul",
+      "birth_year": "1989",
+      "gender": "Agender",
+      "homeworld": "Canarias",
+      "url": "its local :("
+    }
+  ]
+}

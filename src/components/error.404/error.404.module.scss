@@ -1,0 +1,33 @@
+.errorContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  margin-top: 70px;
+
+  .deathStar {
+    display: none;
+  }
+
+  .hidingParagraphDeathStar {
+    display: none;
+  }
+
+  .hidingParagraphGayRobots {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    p {
+      font-size: 24px;
+      padding: 4px;
+      margin-bottom: 3px;
+      margin-top: 3px;
+    }
+  }
+
+  span {
+    margin-top: 50px;
+    font-size: 36px;
+  }
+}

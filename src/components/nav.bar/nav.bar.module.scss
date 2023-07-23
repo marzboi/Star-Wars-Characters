@@ -1,0 +1,36 @@
+.navBar {
+  border-radius: 20px;
+  margin-top: 20px;
+  gap: 20px;
+
+  .buttons {
+    display: flex;
+    flex-direction: row;
+    @media (max-width: 800px) {
+      flex-direction: column;
+    }
+
+    cursor: pointer;
+    img {
+      border-radius: 50%;
+    }
+
+    button {
+      background-color: transparent;
+      margin: 0;
+      border: 0px;
+      color: white;
+      font-size: 16px;
+      font-family: inherit;
+      cursor: pointer;
+    }
+
+    .button {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      padding: 15px;
+    }
+  }
+}
